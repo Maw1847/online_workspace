@@ -9,7 +9,7 @@
         <hr>
         <ul class="nav nav-pills flex-column mb-auto">
             <li class="nav-item">
-                <a href="#" class="nav-link active" aria-current="page">
+                <a href="home.php" class="nav-link active" aria-current="page">
                     <svg class="bi me-2" width="16" height="16">
                         <use xlink:href="#home" />
                     </svg>
@@ -17,7 +17,7 @@
                 </a>
             </li>
             <li>
-                <a href="#" class="nav-link link-dark">
+                <a href="tasks.php" class="nav-link link-dark">
                     <svg class="bi me-2" width="16" height="16">
                         <use xlink:href="#speedometer2" />
                     </svg>
@@ -25,7 +25,7 @@
                 </a>
             </li>
             <li>
-                <a href="#" class="nav-link link-dark">
+                <a href="calendar.php" class="nav-link link-dark">
                     <svg class="bi me-2" width="16" height="16">
                         <use xlink:href="#table" />
                     </svg>
@@ -33,7 +33,7 @@
                 </a>
             </li>
             <li>
-                <a href="#" class="nav-link link-dark">
+                <a href="dashboard.php" class="nav-link link-dark">
                     <svg class="bi me-2" width="16" height="16">
                         <use xlink:href="#grid" />
                     </svg>
@@ -41,7 +41,7 @@
                 </a>
             </li>
             <li>
-                <a href="#" class="nav-link link-dark">
+                <a href="team.php" class="nav-link link-dark">
                     <svg class="bi me-2" width="16" height="16">
                         <use xlink:href="#people-circle" />
                     </svg>
@@ -49,7 +49,7 @@
                 </a>
             </li>
             <li>
-                <a href="#" class="nav-link link-dark">
+                <a href="profile.php" class="nav-link link-dark">
                     <svg class="bi me-2" width="16" height="16">
                         <use xlink:href="#people-circle" />
                     </svg>
@@ -59,7 +59,7 @@
         </ul>
         <img id="img_logo" src="/assets/images/logo1.png" class="rounded mx-auto d-block" alt="..." width="100px" height="100px">
         <hr>
-        <a href="#" class="nav-link link-dark">
+        <a href="index.php" class="nav-link link-dark">
             <svg class="bi me-2" width="16" height="16">
                 <use xlink:href="#people-circle" />
             </svg>
