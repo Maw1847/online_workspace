@@ -22,9 +22,9 @@
           <div class="row">
             <div class="col-md-6" >
               <div class="card" style="width: 18rem;">
-                  <img src="/assets/images/3.jpeg" class="card-img-top" alt="...">
+                  <img src="/assets/images/10.jpeg" class="card-img-top" alt="...">
                   <div class="card-body">
-                    <h5 class="card-title">Projet dernièrement ouvert</h5>
+                    <h5 class="card-title">Tache en cours</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                   </div>
@@ -32,9 +32,9 @@
             </div>
             <div class="col-md-6" >
               <div class="card" style="width: 18rem;">
-                  <img src="/assets/images/3.jpeg" class="card-img-top" alt="...">
+                  <img src="/assets/images/x.jpeg" class="card-img-top" alt="...">
                   <div class="card-body">
-                    <h5 class="card-title">Tâches prioritaires</h5>
+                    <h5 class="card-title">Nouvelle Tâche</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                   </div>
@@ -46,7 +46,7 @@
               <div class="card" style="width: 18rem;">
                   <img src="/assets/images/3.jpeg" class="card-img-top" alt="...">
                   <div class="card-body">
-                    <h5 class="card-title">Projet dernièrement ouvert</h5>
+                    <h5 class="card-title">Taches Terminées</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                   </div>
@@ -54,9 +54,9 @@
             </div>
             <div class="col-md-6" >
               <div class="card" style="width: 18rem;">
-                  <img src="/assets/images/3.jpeg" class="card-img-top" alt="...">
+                  <img src="/assets/images/6.jpeg" class="card-img-top" alt="...">
                   <div class="card-body">
-                    <h5 class="card-title">Tâches prioritaires</h5>
+                    <h5 class="card-title">Tâches à venir</h5>
                     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                     <a href="#" class="btn btn-primary">Go somewhere</a>
                   </div>
